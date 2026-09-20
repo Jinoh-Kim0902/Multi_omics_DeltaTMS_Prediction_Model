@@ -454,10 +454,10 @@ If preservation of all omics blocks is required, the final Top-K step should als
 | Notebook                                                                                      | Purpose                                                                        |
 | :-------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
 | `data_filtering.ipynb`                                                                        | Build patient-level omics, clinical, combination, and timepoint feature tables |
-| `single_omics_cv_Training_paper_style_v11_rescue_expansion_v9compatible.ipynb`                | Single-Omics nested-CV training and OOF model comparison                       |
-| `single_omics_cv_Test_from_Training_v11_rescue_expansion_v9compatible_TOPN_SENSITIVITY.ipynb` | Held-out Single-Omics evaluation and Top-N sensitivity analysis                |
+| `single_omics_Training.ipynb`                                                                 | Single-Omics nested-CV training and OOF model comparison                       |
+| `single_omics_Test.ipynb`                                                                     | Single-Omics evaluation and Top-N sensitivity analysis                |
 | `multi_omics_ef_cv_Training.ipynb`                                                            | Multi-Omics Early Fusion nested-CV training                                    |
-| `multi_omics_ef_cv_Test.ipynb`                                                                | Held-out Early Fusion evaluation using training-selected configurations        |
+| `multi_omics_ef_cv_Test.ipynb`                                                                | Early Fusion evaluation using training-selected configurations        |
 
 ---
 
