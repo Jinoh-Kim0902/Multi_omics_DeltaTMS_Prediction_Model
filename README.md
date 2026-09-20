@@ -1,7 +1,5 @@
 # Multi_omics_DeltaTMS_Prediction_Model
 
-# Multi-Omics DeltaTMS Prediction Pipeline
-
 This project evaluates **single-omics** and **multi-omics early-fusion** machine-learning models for predicting `DeltaTMS` using CSF and serum measurements collected at multiple timepoints.
 
 The pipeline is designed to separate model development from held-out evaluation and to perform target-aware preprocessing and feature selection inside the training folds whenever possible.
